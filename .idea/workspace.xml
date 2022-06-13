@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a8f694f-338a-4985-9273-1d7765557623" name="Changes" comment="Initial commit">
+    <list default="true" id="9a8f694f-338a-4985-9273-1d7765557623" name="Changes" comment="cleand up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wismut_zu_ohd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/wismut_zu_ohd.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +72,16 @@
       <workItem from="1647505896702" duration="2128000" />
       <workItem from="1654774413108" duration="1510000" />
       <workItem from="1655124971346" duration="7369000" />
-      <workItem from="1655133211230" duration="1949000" />
+      <workItem from="1655133211230" duration="3048000" />
     </task>
+    <task id="LOCAL-00001" summary="cleand up">
+      <created>1655135450023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655135450023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,20 +105,16 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit wismut to ohd" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="cleand up" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleand up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///media/viejo/DATA/Dokumente/zzf-cloud/Documents/Oral History/wismut/wismut_zu_ohd.ipynb</url>
-          <line>439</line>
+          <line>454</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///media/viejo/DATA/Dokumente/zzf-cloud/Documents/Oral History/wismut/wismut_zu_ohd.ipynb</url>
-          <line>473</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
